@@ -1,0 +1,12 @@
+{
+  "section1": {
+    "type": "section",
+    "description": "Behavior"
+  },
+  "keyOpen": {
+    "type": "keybinding",
+    "description": "Show List",
+    "default": "<Super>a",
+    "tooltip": "Shortcut to open/close the window list"
+  }
+}
